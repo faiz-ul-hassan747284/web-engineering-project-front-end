@@ -1,0 +1,7 @@
+.form-parent{
+ display: table;
+}
+.form{
+    display: table-cell;
+   vertical-align: middle;
+}
